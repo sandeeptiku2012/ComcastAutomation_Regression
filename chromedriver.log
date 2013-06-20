@@ -1,0 +1,11 @@
+[0509/150845:INFO:chromedriver_server.cc(76)] Handling request: /status 
+[0509/150845:INFO:chromedriver_server.cc(81)] Done handling request: 200 {"sessionId":"","status":0,"value":{"build":{"version":"alpha"},"os":{"arch":"x86","name":"Windows NT","version":"5.1 SP3"}}}
+[0509/150845:INFO:chromedriver_server.cc(76)] Handling request: /session {"desiredCapabilities":{"platform":"ANY","browserName":"chrome","chromeOptions":{"args":[],"extensions":[]},"version":"","chrome.switches":[]}}
+[0509/150845:INFO:chrome_launcher.cc(74)] Using chrome from C:\Program Files\Google\Chrome\Application\chrome.exe
+[0509/150846:INFO:chromedriver_server.cc(81)] Done handling request: 303 
+[0509/150846:INFO:chromedriver_server.cc(76)] Handling request: /session/d8697010a9370c6296e3678fd9ea6092 
+[0509/150846:INFO:chromedriver_server.cc(81)] Done handling request: 200 {"sessionId":"d8697010a9370c6296e3678fd9ea6092","status":0,"value":{"acceptSslCerts":true,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"browserName":"chrome","cssSelectorsEnabled":true,"databaseEnabled":true,"driverVersion":"0.8","handlesAlerts":true,"javascriptEnabled":true,"locationContextEnabled":true,"nativeEvents":true,"platform":"Windows NT","rotatable":false,"takesScreenshot":true,"version":"26.0.1410.64","webStorageEnabled":true}}
+[0509/150846:INFO:chromedriver_server.cc(76)] Handling request: /session/d8697010a9370c6296e3678fd9ea6092/timeouts/implicit_wait {"ms":30000}
+[0509/150846:INFO:chromedriver_server.cc(81)] Done handling request: 200 {"sessionId":"d8697010a9370c6296e3678fd9ea6092","status":0,"value":null}
+[0509/150846:INFO:chromedriver_server.cc(76)] Handling request: /session/d8697010a9370c6296e3678fd9ea6092/url {"url":"http://xidiotrial:Fhaze1@www.xidio.com"}
+[0509/150854:INFO:chromedriver_server.cc(81)] Done handling request: 200 {"sessionId":"d8697010a9370c6296e3678fd9ea6092","status":0,"value":null}
